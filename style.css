@@ -125,6 +125,7 @@ nav {
   padding: 0 0.7vw;
   align-items: center;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 .nav-links li {
   position: relative;
@@ -150,6 +151,7 @@ nav {
   border-radius: 5px;
   margin-left: 20px;
   transition: color 0.2s ease-in-out;
+  white-space: nowrap;
 }
 
 .btn:hover {
